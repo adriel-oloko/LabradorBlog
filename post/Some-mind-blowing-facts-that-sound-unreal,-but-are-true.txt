@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<ul class="q-box">
+<li class="q-relative">In 1814, a 15 foot tsunami of beer caused damage to many homes and injured 8 people</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-12a38d3904dcf38979caff8de1a16132" /></div>
+<ul class="q-box">
+<li class="q-relative">Elon Musk made a side hobby company called The Boring Company, focusing on new methods of transportation.</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-bb6d09e6737d2aefdd8bdf2337a13b8f" /></div>
+<ul class="q-box">
+<li class="q-relative">One pineapple can be worth up to $16,000</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-6fc3bb6ed4592fd89a0c922773b17e8b" /></div>
+<ul class="q-box">
+<li class="q-relative">The national animal of Scotland is the Unicorn</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-ed9420b8557caa6d8bef82d014c57542" /></div>
+<ul class="q-box">
+<li class="q-relative">The Nazis were the first ever people in modern history to start an anti-smoking and tobacco movement.</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-798413baafd6b8fb390e3149fa2245e8" /></div>
+<p class="q-text qu-display--block">He does not spare him. Headline: the chain smoker</p>
+<ul class="q-box">
+<li class="q-relative">Viagra, when dissolved in water, can make cut-flowers stay erect for up to a week longer than they usually would.</li>
+</ul>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" src="https://qph.fs.quoracdn.net/main-qimg-df01abf35b49d2dc2a581674882b6925" /></div>
+<p class="q-text qu-display--block">Hope you enjoyed reading some useless facts that you will forget in a day!</p>
+<p class="q-text qu-display--block">Adriel😉</p>
+</body>
+</html>

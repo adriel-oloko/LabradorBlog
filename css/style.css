@@ -1,0 +1,197 @@
+h1, h2, h3, h4, h5, h6, p, i, div, a {
+	font-family: 'Nunito', sans-serif;
+	/*font-size: 17px;*/
+	/*font-weight: 600;*/
+	color: black;
+}
+
+p, i, pre, a {
+    font-size: 17px;
+}
+
+.post a {
+    color: blue;
+}
+
+.recents h2 {
+    font-size: 17px;
+}
+
+}
+#header {
+	width: 100%;
+	box-shadow: 5px 6px 12px #aaa;
+	color: black;
+	border: 0px solid red;
+	height: 69px;
+}
+
+#header-name {
+	border: 0px solid red;
+	width: 70%;
+	float: left;
+	padding: 5px;
+}
+
+#header-nav-button {
+	border: 0px solid blue;
+	width: auto;
+	padding: 5px;
+}
+
+#navbar {
+	display: none;
+	color: #000;
+	background-color: #fff;
+	min-height: 100%;
+	overflow: auto;
+	width: 63%;
+	float:right;
+	top: 0;
+	z-index: 1;
+	margin-left: 0px;
+	position: fixed;
+	height: 100%;
+	border-right: 1px solid #ccc;
+	padding-left: 7px;
+}
+
+
+#navbar-search {
+	display: none;
+	color: #000;
+	background-color: #fff;
+	min-height: 100%;
+	overflow: auto;
+	width: 63%;
+	float: left;
+	top: 0;
+	z-index: 1;
+	margin-right: 0px;
+	position: fixed;
+	height: 100%;
+	border-left: 1px solid #ccc;
+	right: 0%;
+	padding-left: 7px;
+}
+
+#footer {
+	text-align: center;
+	font-size: 13px;
+	width: 70%;
+	margin: auto;
+	line-height: 4px;
+}
+
+.bar-4 {
+	padding: 0px;
+	line-height: 0px;
+	margin-bottom: 0px;
+
+}
+
+th {
+	border: 0px solid red;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	background: white;
+	border: 0px solid white;
+	outline: none;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border: 0px solid black;
+}
+
+.post-head-banner {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	border-radius: 5px;
+}
+
+.post-head-banner-read-more {
+
+	background-repeat: no-repeat;
+	background-image: url('./images/galaxy.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	border-radius: 5px;
+
+	/*bottom: -21px;*/
+	float: right;
+}
+
+.post-img{
+	 background-color:white;
+	 padding:0px;
+	 border-left:5px solid lightgrey;
+	 height: auto;
+}
+
+.post {
+	 background-color: #fff;
+	 padding: 10px;
+	 border-left: 0px solid lightgrey;
+	 height: auto;
+	 box-shadow: 5px 6px 12px #aaa;
+	 font-size:14px;
+}
+
+.tags{
+	background-color: lightgrey;
+	padding: .5px 2px .5px 2px;
+	color: #000;
+}
+
+.bar-span{
+	background-color:lightgrey;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #main {width: 100%;}
+    #mainn {width: 30%;}
+    #side {
+        width: 0px;
+        display: none;
+    }
+    .b-screen {display: none;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #main {width: 100%;}
+    #mainn {width: 30%;}
+    #side {
+        width: 0px;
+        display: none;
+    }
+    .b-screen {display: none;}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    #main {width: 60%;}
+    #mainn {width: 30%;}
+    #side {width: 35%; display: block;}
+    #search-media {visibility: hidden;}
+    .post-head-banner {display: none;}
+    .b-screen {display: block;}
+    .s-screen {display: none;}
+}

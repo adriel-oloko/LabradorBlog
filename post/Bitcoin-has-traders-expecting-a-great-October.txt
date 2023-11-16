@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><img src="https://www.thecoinrepublic.com/wp-content/uploads/2021/02/bitcoin-2868703_1280-1-750x496.jpg" alt="Bitcoin" width="750" height="496" /></p>
+<ul>
+<li>Bitcoin unable to break September jinx</li>
+<li>For the fifth straight September Bitcoin logs losses</li>
+<li>Experts feel if BTC managed to stick and breach the present level the prices could surge above the $50k mark.</li>
+</ul>
+<p>Bitcoin last month started on a positive note surged to a high of $52,944. The asset faced solid resistance at higher levels and witnessed a sharp correction by almost 25% making the monthly low of $39,600</p>
+<p>The curse of September continues to haunt the number one cryptocurrency and for the fifth year in a row, BTC is seeing red. The crypto coin has been on the negative side in terms of monthly performance in September since 2017.</p>
+<p>There is no explanation for the September jinx. Every year it is the same story but this year experts were hoping the jinx to be broken since the momentum built in the past few months suggested that there is only one way which Bitcoin will see and it is up. Three months of being in the red, BTC made impressive gains of over 30% in July and August 2021.</p>
+<div class="jeg_ad jeg_ad_article jnews_content_inline_ads  ">
+<div class="ads-wrapper align-center ">
+<div class="ads_code">
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true"><iframe id="Z-6675e60e64f8e678350" src="https://request-global.czilladx.com/serve/view.php?w=320&amp;h=100&amp;z=2345e60e96e6d507682&amp;c=5461c9753915e44797&amp;n=6b99523004f665dab23f026363a5692a52aadaa8b355120af9df5b4a917ddfa7&amp;integrity=eyJrZXkiOiI0YzcyNjhlNjc5MDFlZWFlYWMxYzEyOTQ1N2ZlNGY5NDdjOTAyYzUwODYxZmE2ODI0YWU1YTNlZTk1YzNmMjFkIiwidGltZXN0YW1wIjoxNjU1NTE2MDM5LjQzOTM4NiwiaWRlbnRpZmllciI6ImNmNzk4NzhkZDc0MzQ5NWZlYTc3ZjJjMzFlNmE2MmE5OTVmNTExMzM4OWJkNTdhNjVhOWJjOWJkZGI4YzY5OWQifQ" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></div>
+</div>
+</div>
+</div>
+<p>BTC opened at $48K and surged to hit $52K at the beginning of the month. However later, the going became tough and BTC started tanking and slipped below the psychological mark of $40K. However, it eventually stabilized at $43,859 for the month and returns for September stood at -7.34%.</p>
+<h2><strong>BTC fall blamed on outside factors&nbsp;</strong></h2>
+<p>There were three instances of major tanking in the values of Bitcoin. The falls were all precipitated by incidents. The first fall happened after El Salvador adopted Bitcoin as a legal tender. The second fall was precipitated by the Chinese property developer Evergrande&rsquo;s crisis. The third fall happened just after the announcement by China of a complete ban on cryptocurrency dealing.</p>
+<p>Experts opine that after falling below $40k and touching $39K after breaking the $50K resistance, BTC could surprise by turning around conventional trends since the market is bullish and an all-time high number of investors waiting to invest.</p>
+<p>At present, the number one asset is touching the $44,500 mark, which is its next stiff resistance. If BTC can breach this mark, a rally could happen.</p>
+<p>&nbsp;Chief Revenue Officer of ZebPay, Nirmal Ranga, feels that macroeconomic developments have created a feeling of uncertainty which has led to bearish sentiments in the market. However, he was quick to add that surge in volumes and growth since the accumulation is likely at these levels. Volumes are seeing a recovery which is an important parameter for the prices to recover.</p>
+<h3><strong>Technical outlook</strong></h3>
+<p>Bitcoin last month was booming and touched a high of $52,944. The number one coin then faced considerable pressure at higher levels and went for a price correction which saw the values tank by 24% and reached a monthly low of $39,600. Experts opine that the crypto asset is trading at an &lsquo;Ascending Triangle&rsquo; and is taking multiple supports around the $40,000 mark. Ranga added that if BTC managed to stick and breach this level the prices could surge above the $50k mark. However he added that if the reverse happens and the crypto asset breaks or closes below the month&rsquo;s low, the price can slide to $37,000.</p>
+<p>On the upside, Bitcoin has resistance at $46,500, followed by $53,000. Supports are at $40,000 and $37,000.</p>
+</body>
+</html>

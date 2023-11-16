@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+<div class="ads-wrapper  "><img class="attachment-jnews-featured-1140 size-jnews-featured-1140" src="https://www.thecoinrepublic.com/wp-content/uploads/2021/10/image-2.jpeg" sizes="(max-width: 730px) 100vw, 730px" srcset="https://www.thecoinrepublic.com/wp-content/uploads/2021/10/image-2.jpeg 730w, https://www.thecoinrepublic.com/wp-content/uploads/2021/10/image-2-300x169.jpeg 300w, https://www.thecoinrepublic.com/wp-content/uploads/2021/10/image-2-600x338.jpeg 600w" alt="" width="730" height="411" loading="lazy" data-pin-no-hover="true" /></div>
+</div>
+<div class="jeg_viewport">
+<div class="elementor elementor-75589 elementor-location-single post-68767 post type-post status-publish format-standard has-post-thumbnail hentry category-press-release tag-apricot-finance" data-elementor-type="single-post" data-elementor-id="75589">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4d6971d3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d6971d3" data-element_type="section" data-settings="{">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71428d0" data-id="71428d0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1b534c01 elementor-widget elementor-widget-theme-post-content" data-id="1b534c01" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<p><em>The launch will see the introduction of a next-generation DeFi concept; cross-margin yield farming&nbsp;</em></p>
+<p><strong>NEW YORK, USA, October 19th, 2021 &ndash;&nbsp;</strong><a href="https://apricot.one/">Apricot Finance</a>, a next generation lending protocol, has announced that the public launch of its mainnet will take place this October 19th. Built on&nbsp;<a href="https://solana.com/">Solana</a>, Apricot combines cross-margin yield farming with customisable protection from liquidation. Apricot Lend, Apricot X-Farm, and Apricot Assist are the three different products that together provide this complete lending experience.&nbsp;<a href="https://halborn.com/">Halborn Security</a>, an independent blockchain security firm, has audited Apricot&rsquo;s smart contracts to demonstrate security.&nbsp;</p>
+<h2><strong>Overview&nbsp;</strong></h2>
+<p>Apricot Finance consists of three different tools fulfilling complementary functions to deliver a highly competitive lending protocol. Investors are able to access cross margin yield farming whilst also minimising the downside risk associated with liquidation. Platform will take advantage of the low fees and fast transactions offered by salon to create a user-friendly experience for d-phy investors of all&nbsp;</p>
+<div class="jeg_ad jeg_ad_article jnews_content_inline_ads  ">
+<div class="ads-wrapper align-center ">
+<div class="ads_code">
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true">Apricot Lend, the first of the three tools, grants users the ability to lend and borrow capital. Lend is the base layer protocol for the rest of the project. Users who deposit selected crypto assets into the lending pool will have a choice. They can earn interest on the assets or alternatively use them as collateral to borrow other assets. What&rsquo;s unique about Lend is that this protocol is cross-margin, meaning that users can borrow any crypto asset regardless of what they have posted as collateral.&nbsp;</div>
+</div>
+</div>
+</div>
+<p>The next tool that makes up Apricot is X-Farm (Cross Farm). This tool allows users to enter into farming pools leverage up to approximately&nbsp; 3 times. Users are not required to own the underlying tokens in the pool. Any crypto asset can be deposited as collateral to contribute and to start earning rewards through X-Farm. This means no conversion will be necessary, which will stop users from needing to use other platforms and thus streamline the experience. Many of the first pairs offered by X-Farm will be stablecoins or other pegged assets, minimizing the risk of impermanent loss.&nbsp;</p>
+<p>The third and perhaps most special tool is Apricot Assist. This tool will provide protection from liquidation and minimise the exposure if the price of staked assets falls. Because Assist is customisable, users can self configure their portfolio leverage to trigger and target certain levels. This means that auto-deleveraging takes place if the portfolio leverage exceeds the set trigger level.</p>
+<p>This tool also comes with Assist Simulator which allows users to visualise and decide what assets would be transacted in each deleveraging action. Apricot Assist allows users to manage their risk even as their earning additional yield through apricots leverage function. The tool, if used correctly, will strongly decrease the total amount of liquidations occurring on the platform.&nbsp;</p>
+<p>Apricot Finance recently finished its latest financing round which saw the platform secure $4 million in investment. There is demonstrably a huge amount of faith in this project from leading blockchain investors and this support was key to the launch of Apricot&rsquo;s testnet in September.&nbsp;</p>
+<p>Ahead of apricots mainnet launch, Halborn security has provided a security audit verifying the safety of its smart contracts. More audits will follow within the weeks and months after the launch to further verify the security at the contracts. Until all audits have been completed the contract will remain closed source to guarantee the safety of investor funds.</p>
+<p>Apricot&rsquo;s mainnet launch is scheduled for October 19th.&nbsp;</p>
+<p><strong>About Apricot Finance&nbsp;</strong></p>
+<p>Apricot Finance is a next generation protocol built on Solana that gives users access to leveraged yield farming whilst simultaneously giving them the tools to minimize their downside risk. With the imminent release of security audits from two separate blockchain security firms, Apricot is committed to ensuring the safety of all value locked in their smart contracts.&nbsp;</p>
+<div class="abh_box abh_box_down abh_box_fancy">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div id="footer" class="footer-holder" data-id="footer">
+<div class="jeg_footer jeg_footer_custom">
+<div class="jeg_container">
+<div class="jeg_content">
+<div class="jeg_vc_content">
+<div class="elementor elementor-135" data-elementor-type="wp-post" data-elementor-id="135">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-tRdZvlk elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="tRdZvlk" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-RkArniY" data-id="RkArniY" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-A2b6FFD elementor-widget elementor-widget-jnews_footer_menu_elementor" data-id="A2b6FFD" data-element_type="widget" data-widget_type="jnews_footer_menu_elementor.default">
+<div class="elementor-widget-container">
+<div class="jnews_module_68767_4_62ad3434910b4"><br /><br /><br /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

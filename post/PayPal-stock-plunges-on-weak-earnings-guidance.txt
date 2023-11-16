@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div id="RegularArticle-KeyPoints-4" class="RenderKeyPoints-keyPoints" data-test="keyPoints-1" data-analytics="RegularArticle-keyPoints-4-1">
+<div class="RenderKeyPoints-wrapper">
+<div class="RenderKeyPoints-header"><span style="color: #236fa1;"><strong>KEY POINTS</strong></span></div>
+<div class="RenderKeyPoints-list">
+<div>
+<div class="group">
+<ul>
+<li>PayPal reported mixed Q4 2021 earnings Tuesday and provided guidance for the next quarter that fell short of analyst estimates.</li>
+<li>The company expects Q1 non-GAAP earnings per share of 87 cents, short of the $1.16 analysts anticipated.</li>
+<li>It also reported weak full year revenue growth guidance for 2022.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="RegularArticle-ArticleBody-5" class="ArticleBody-articleBody" data-module="ArticleBody" data-test="articleBody-2" data-analytics="RegularArticle-articleBody-5-2">
+<div id="RegularArticle-RelatedQuotes" class="RelatedQuotes-relatedQuotes">
+<div class="RelatedQuotes-titleAndTime">
+<p class="RelatedQuotes-text">In this article</p>
+</div>
+<ul class="RelatedQuotes-list">
+<li class="QuoteItem-item" title="After Hours" aria-label="Quote for PayPal Holdings Inc"><a class="QuoteItem-extHours QuoteItem-link" href="https://www.cnbc.com/quotes/PYPL"><span class="QuoteItem-symbol">PYPL</span><span class="QuoteItem-quoteUp QuoteItem-quote">+0.01&nbsp;(+0.01%)</span><img class="QuoteItem-afterHoursIcon" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTkiIHZpZXdCb3g9IjAgMCAxNyAxOSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTguMzY5NjUgMEM3LjEzMTI0IDAuMTUxODQ4IDUuODc0MDYgMC41NTA0NSA0LjcxMDcxIDEuMjE0NzlDMC4yMDczOTUgMy44NTMxNSAtMS4zMzEyNCA5LjY4MDMyIDEuMjU4MTcgMTQuMjM1OEMzLjg0NzU3IDE4Ljc5MTIgOS42MDgwNiAyMC4zNDc3IDE0LjEzMDEgMTcuNzA5M0MxNS4yOTM1IDE3LjAyNiAxNi4yNTA0IDE2LjEzMzkgMTcuMDAxIDE1LjEwODlDMTMuMzk4MyAxNS41MjY1IDkuNzIwNjQgMTMuNzk5MiA3Ljc4Nzk3IDEwLjQyMDZDNS44NTUzIDcuMDQxOTYgNi4yMTE4MSAyLjk2MTA0IDguMzY5NjUgMFoiIGZpbGw9IiNFODgwMkEiLz4KPC9zdmc+Cg==" alt="After Hours" /></a>
+<div id="RegularArticle-WatchlistDropdown" data-analytics-id="RegularArticle-WatchlistDropdown"></div>
+</li>
+</ul>
+</div>
+<div id="Placeholder-ArticleBody-Video-107009778" class="PlaceHolder-wrapper" tabindex="0" role="button" data-vilynx-id="7000231291" data-test="VideoPlaceHolder">
+<div id="InlineVideo-0" class="InlineVideo-videoEmbed" data-test="InlineVideo">
+<div class="InlineVideo-wrapper">
+<div class="InlineVideo-inlineBackgroundImageContainer" role="img">
+<div class="undefined PlayButton-container " data-test="PlayButton">
+<div class="PlayButton-featured PlayButton-base " data-type="play">
+<div class="group">
+<p><img src="post/images/GettyImages-1184251295.jpg" alt="" /></p>
+<hr />
+<p>PayPal shares fell more than 17% after hours on Tuesday after reporting mixed results and Q1 guidance that fell below analyst estimates.</p>
+<p>Here are the key numbers:</p>
+<ul>
+<li><strong>Earnings per share:</strong>&nbsp;$1.11 per share, ex-items vs. $1.12 per share expected, according to a Refinitiv survey of analysts</li>
+<li><strong>Revenue:</strong>&nbsp;$6.92 billion vs. $6.87 billion expected, according to Refinitiv</li>
+</ul>
+<div class="BoxInline-container  ">
+<div id="BoxInline-ArticleBody-5" class="BoxInline-container" data-module="mps-slot">
+<div id="div-gpt-boxinline-2033082625" class="mps-slot" data-mps-slot="boxinline" data-mps-loadset="0">
+<div id="google_ads_iframe_/2620/nbcu.cnbc/technology_6__container__"></div>
+</div>
+</div>
+</div>
+<p>The company expects first-quarter non-GAAP earnings per share of 87 cents, short of the $1.16 analysts anticipated.</p>
+<p>PayPal forecast revenue to grow about 15% to 17% for the full year 2022, on a spot and foreign-currency-neutral basis. Analysts had expected year-over-year revenue growth for 2022 to be 17.9%.</p>
+<p>PayPal CEO Dan Schulman told CNBC that the company took &ldquo;a measured approach&rdquo; to guidance but revenue should accelerate in the second half of the year.</p>
+<p>&ldquo;We&rsquo;ve got the eBay transition to work our way through. This transition is hiding some of the underlying strength of the business,&rdquo; Schulman said, adding that eBay put $1.4 billion of revenue pressure on the company last year, and should be closer to $600 million this year. By the third quarter, PayPal won&rsquo;t have to adjust results for eBay.</p>
+<p>The dot-com-era tech giant acquired PayPal twenty years ago to handle payments for its website. In 2015, the two companies split and eBay has been slowly transitioning to its own payment system, and off from PayPal.</p>
+<div class="MidResponsive-midResponsiveContainer">
+<div id="MidResponsive-1" class="" data-module="mps-slot">
+<div id="div-gpt-midresponsive-2033082625" class="mps-slot" data-mps-slot="midresponsive" data-mps-loadset="0">
+<div id="google_ads_iframe_/2620/nbcu.cnbc/technology_2__container__"></div>
+</div>
+</div>
+</div>
+<p>Schulman also blamed &ldquo;exogenous factors&rdquo; like inflation weighing on consumer spending among parts of PayPal&rsquo;s userbase, and supply chain issues &ldquo;disproportionately impacting&rdquo; cross-border payments, especially out of China<em>.</em></p>
+</div>
+<h2 class="ArticleBody-subtitle">Slower user growth, too</h2>
+<div class="group">
+<p>PayPal&rsquo;s user numbers, measured by net new active accounts, also missed the company&rsquo;s prior targets.</p>
+<p>The lower total was in part due to 4.5 million &ldquo;illegitimate&rdquo; accounts that joined the platform during incentive-based campaigns. Finance and tech companies often offer perks, such as cash bonuses, to drive users to their apps. But CFO John Rainey said in this case, millions of new accounts were excluded from quarterly user growth.</p>
+<p>While the number was immaterial to PayPal&rsquo;s customer base of 426 million &ldquo;it affected our ability to achieve our guidance in the quarter,&rdquo; Rainey said.</p>
+<p>&ldquo;We regularly assess our active account base to ensure the accounts are legitimate,&rdquo; he said on the fourth-quarter earnings call. &ldquo;This is particularly important during incentive campaigns, that can be targets for bad actors attempting to reap the benefit from these offers without ever having an intent to be a legitimate customer of our platform.&rdquo;</p>
+<p>PayPal said it expects to add 15 million to 20 million new accounts this year and walked back its goal of 750 million total accounts set by the company last year.</p>
+<p>&ldquo;Moving forward, we will continue to grow our users, but our focus will be on sustainable growth and driving engagement,&rdquo; Rainey said. &ldquo;To be very clear, this is a choice on our part. We could increase our spin and accelerate our net new active trajectory. However, we believe there are better ways to achieve our financial results.&rdquo;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

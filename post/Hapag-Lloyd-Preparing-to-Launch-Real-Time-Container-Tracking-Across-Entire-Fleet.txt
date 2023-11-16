@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="row fixed">
+<div class="col-lg-8 col-md-12 content">
+<div class="body">
+<p class="caption"><img src="https://gcaptain.com/wp-content/uploads/2022/04/Hapag-LloydDryContainerMonitoring_FirstPrototypDevices.JPG.jpg" /></p>
+<p class="caption">German liner Hapag-Lloyd is starting to install real-time tracking devices on its entire fleet of approximately 3 million twenty-foot equivalent (TEU) containers.</p>
+<p>Hapag-Lloyd&nbsp;<a href="https://gcaptain.com/hapag-lloyd-launching-real-time-container-monitoring/">announced its intention</a>&nbsp;of becoming the first shipping company in the world to outfit all of its standard shipping containers with real-time monitoring in April to help boost efficiency and transparency for its customers.</p>
+<p>Once installed, the &ldquo;Internet of Things&rdquo; (IoT) devices will transmit real-time data such as GPS-based location data, temperature measurements, and monitor for sudden vibrations.</p>
+<p>&ldquo;Our vision is to build the smartest container fleet in the world and provide our customers with valuable information at the frequency they need,&rdquo; said Olaf Habert, Hapag-Lloyd&rsquo;s Director Container Applications.</p>
+<p>For the program, Hapag-Lloyd is working with well-known TradeTech company Nexxiot AG with devices supplied by ORBCOMM. The mass installation of tracking devices is expected to begin at the end of this month.</p>
+<p>Hapag-Lloyd first introduced real-time monitoring of its approximately 100,000-unit reefer container fleet in 2019. Known as Hapag-Lloyd LIVE, the product is expected to become available for customers of standard shipping containers starting in early 2023 with tracking of its entire dry container fleet anticipated by the end of 2023.</p>
+</div>
+</div>
+</div>
+</body>
+</html>

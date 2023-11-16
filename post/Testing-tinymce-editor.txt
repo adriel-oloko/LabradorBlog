@@ -1,0 +1,18 @@
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/e3ldTk0uAHk" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<h1 style="text-align: center;">Heading 1</h1>
+<h2 style="text-align: center;">Heading 2</h2>
+<h3 style="text-align: center;">Heading 3</h3>
+<h4 style="text-align: center;">Heading 4</h4>
+<h5 style="text-align: center;">Heading 5</h5>
+<h6 style="text-align: center;">Heading 6</h6>
+<p style="text-align: center;"><img src="images/404.png" alt="" width="360" height="189" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;"><strong>Bold</strong></p>
+<p style="text-align: left;"><em><strong>Bold italic</strong></em></p>
+<p style="text-align: left;"><em>Italic</em></p>
+<p style="text-align: left;">🤑</p>
+<p style="text-align: left;"><span style="background-color: #ba372a;">Red background</span></p>
+<p style="text-align: left;"><span style="color: #169179;">Green text</span></p>
+<p style="text-align: left;"><a title="Video" href="images/9745b444f0184599bb3ddc42429fd40b_1621365959899.mp4" target="_blank" rel="noopener">Video link new tab</a></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">Modern and responsive blog for sale. Built using a custom design and featuring an auto-detecting most active post software system.</p>

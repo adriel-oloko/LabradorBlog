@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-19ef8fb3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="19ef8fb3" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24d2c840" data-id="24d2c840" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-7eef7d53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7eef7d53" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-57d31dec" data-id="57d31dec" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-af0f589 elementor-align-center elementor-widget elementor-widget-post-info" data-id="af0f589" data-element_type="widget" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<p><img class="attachment-jnews-featured-1140 size-jnews-featured-1140" src="https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2.jpg" sizes="(max-width: 870px) 100vw, 870px" srcset="https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2.jpg 870w, https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2-300x190.jpg 300w, https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2-768x486.jpg 768w, https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2-600x379.jpg 600w, https://www.thecoinrepublic.com/wp-content/uploads/2021/11/etf-2-750x474.jpg 750w" alt="etf" width="870" height="550" loading="lazy" data-pin-no-hover="true" /></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</section>
+<ul>
+<li>October was a record-breaking month for Bitcoin&nbsp;funds</li>
+<li>Crypto investment products saw inflows totaling $288 million</li>
+<li>Accounting for all crypto assets, 2021 inflows reached $8.7 billion last week</li>
+</ul>
+<p>Institutional inflows into Bitcoin items got forceful in October, highlighting recharged bullish feeling encompassing the lead digital currency.&nbsp;</p>
+<p>Crypto speculation items saw inflows adding up to $288 million for the week finishing October 31, with BTC representing $269 million, as indicated by CoinShares&rsquo; week-by-week streams report.&nbsp;</p>
+<h2>ProShares BTC ETF generated $1 Billion in assets</h2>
+<p>Institutional interest for BTC has been increasing step by step in recent months amid assumptions that the United States Securities and Exchange Commission, or SEC, would endorse its first BTC trade exchange asset.</p>
+<div class="jeg_ad jeg_ad_article jnews_content_inline_ads  ">
+<div class="ads-wrapper align-center ">
+<div class="ads_code">
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true">Those assumptions happened as expected last month with two Bitcoin-connected items hitting the market.&nbsp;</div>
+</div>
+</div>
+</div>
+<p>The ProShares Bitcoin Strategy trade exchanged asset (ETF), which dispatched authoritatively on October 19, created $1 billion in resources under administration in its initial two days, turning into the quickest asset to at any point arrive at that achievement.&nbsp;</p>
+<p>ProShares Bitcoin Strategy ETF is a BTC trade exchange asset that tries to give an absolute return (counting both value appreciation and pay) by effectively taking short situations in BTC prospect agreements and putting them straightforwardly in Bitcoin. It is intended to give designated openness to brokers keen on taking momentary situations in bitcoin. Made by famous ETF specialists, it is effectively overseen and put straightforwardly in Bitcoin prospects contracts.&nbsp;</p>
+<p>Also, it might contribute up to 20% of its all out resources (as estimated toward the finish of each quarter) in specific trade exchanges or OTC subsidiaries that give openness to Bitcoin.</p>
+<p>Bitcoin funds as a whole generated $2 billion in inflows</p>
+<p>In any case, in contrast to the past record-breaking week, inflows into U.S.- based Bitcoin ETFs added up to just $53 million for the latest time frame, as indicated by CoinShares.&nbsp;</p>
+<p>For the long stretch of October, BTC assets all in all created $2 billion in inflows, bringing the year-to-date total to almost $6.4 billion.&nbsp;</p>
+<p>By examination, Ether (ETH) reserves have gotten $1.05 billion since the year started. When representing all crypto resources, 2021 inflows came to $8.7 billion last week, which is 30% higher than all of the years before.&nbsp;</p>
+<p>The BTC cost arrived at an unsurpassed high above $67,000 last month prior to revising lower. At the hour of composing, the main cryptographic money was esteemed at $61,000, as indicated by Cointelegraph Markets Pro.</p>
+</body>
+</html>

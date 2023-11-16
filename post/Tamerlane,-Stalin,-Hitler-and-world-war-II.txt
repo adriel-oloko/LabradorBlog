@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="CssComponent-sc-1oskqb9-0 cXjXFI">
+<div class="q-box">
+<div class="q-box">
+<div>
+<div class="q-box qu-gutterBottom qu-bg--raised">
+<div class="q-box qu-pt--medium">
+<div class="q-box">
+<div>
+<div class="q-box">
+<div class="q-box qu-display--block">
+<div>
+<div>
+<div class="q-relative spacing_log_answer_content puppeteer_test_answer_content">
+<div class="q-text">
+<h4 class="q-text qu-display--block" style="text-align: center;"><em><strong>"WHOEVER OPENS MY TOMB SHALL UNLEASH AN INVADER MORE TERRIBLE THAN I&rdquo;</strong></em></h4>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" style="display: block; margin-left: auto; margin-right: auto;" src="https://qph.fs.quoracdn.net/main-qimg-6e59c3139bbe1a7bb1333a171b11f8fb" /></div>
+<div class="q-box">&nbsp;</div>
+<hr />
+<p class="q-text qu-display--block">That was the message inscribed on the tomb of the fearsome Tamerlane, the terror of the the Middle East and South Western Asia and Genghis Khans worthiest successor. In his lifetime he conquered and governed an empire of 4.4 million square miles (to put that in perspective, that&rsquo;s the size of the Roman Empire at its greatest) and massacred more than 17 million people.</p>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" style="display: block; margin-left: auto; margin-right: auto;" src="https://qph.fs.quoracdn.net/main-qimg-75e66d084a5eff53fed87925223b340c" /></div>
+<p class="q-text qu-display--block">In 1941 Joseph Stalin took an interest in the tomb of Tamerlane and sent a team of archeologists to Samarkand, Uzbekistan, where Tamerlane&rsquo;s final resting place was. They ignored the inscription and entered his tomb. Hours later Adolf Hitler launched the greatest land invasion of all time with 3 million troops into Stalin&rsquo;s USSR and would go on to cause the deaths of more than 26 million Russian people.</p>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" style="display: block; margin-left: auto; margin-right: auto;" src="https://qph.fs.quoracdn.net/main-qimg-d4fbf967018d595b0df48fe9343c7d62" /></div>
+<p class="q-text qu-display--block">Interestingly enough when Stalin allegedly ordered Tamerlane&rsquo;s tomb resealed the German 6th army was annihilated at Stalingrad, effectively ending all hope of a German victory.</p>
+<div class="q-box"><img class="q-image qu-display--block qu-borderRadius--small" style="display: block; margin-left: auto; margin-right: auto;" src="https://qph.fs.quoracdn.net/main-qimg-ce1dcf39d00be2c2e866a7e16a21bfbf" /></div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="q-box qu-zIndex--action_bar">
+<div class="q-flex qu-justifyContent--space-between qu-alignItems--center qu-flexWrap--nowrap qu-py--tiny">
+<div class="q-flex qu-alignItems--center">
+<div class="q-box qu-mr--tiny">
+<div class="q-inlineFlex qu-borderRadius--pill qu-alignItems--center">
+<div class="q-relative qu-mr--n_small qu-pr--small qu-overflowY--hidden qu-ml--tiny qu-minHeight--24 qu-color--gray qu-minWidth--24">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="CssComponent-sc-1oskqb9-0 cXjXFI">
+<div class="q-box">
+<div class="q-box">
+<div>
+<div class="q-box qu-gutterBottom qu-bg--raised">
+<div class="q-box qu-pt--medium">
+<div class="q-box">
+<div>
+<div class="q-box">
+<div class="q-box qu-display--block">
+<div>
+<div>
+<div class="q-relative">
+<div class="q-relative">
+<div class="q-flex qu-mb--tiny">
+<div class="q-text qu-bold qu-color--gray_dark_dim qu-passColorToLinks qu-lineHeight--regular">
+<div class="q-box qu-display--block">
+<div>
+<div class="q-click-wrapper qu-display--block qu-tapHighlight--white qu-cursor--pointer ClickWrapper___StyledClickWrapperBox-zoqi4f-0 bARCkM" tabindex="0">
+<div class="q-flex qu-flexDirection--row">
+
+<div class="q-inline qu-flexWrap--wrap">Cheers,</div>
+<div class="q-inline qu-flexWrap--wrap">Adriel😉</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="jeg_navbar_mobile_wrapper">
+<div class="jeg_navbar_mobile jeg_sticky_nav" data-mode="scroll">
+<div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+<div class="container">
+<div class="jeg_nav_row">
+<div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+<div class="item_wrap jeg_nav_aligncenter">
+<div class="jeg_nav_item jeg_mobile_logo">
+<div class="site-title"><a href="https://www.thecoinrepublic.com/"> <img class="attachment-jnews-featured-1140 size-jnews-featured-1140" src="https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5.jpg" sizes="(max-width: 870px) 100vw, 870px" srcset="https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5.jpg 870w, https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5-300x190.jpg 300w, https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5-768x486.jpg 768w, https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5-600x379.jpg 600w, https://www.thecoinrepublic.com/wp-content/uploads/2021/09/f12-5-750x474.jpg 750w" alt="bitcoin" width="870" height="550" loading="lazy" data-pin-no-hover="true" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor elementor-75589 elementor-location-single post-69444 post type-post status-publish format-standard has-post-thumbnail hentry category-bitcoin category-bitcoin-news" data-elementor-type="single-post" data-elementor-id="75589">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4d6971d3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d6971d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71428d0" data-id="71428d0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-74eb9469 elementor-headline--style-rotate elementor-widget elementor-widget-animated-headline" data-id="74eb9469" data-element_type="widget" data-settings="{&quot;headline_style&quot;:&quot;rotate&quot;,&quot;rotating_text&quot;:&quot;Google News&quot;,&quot;animation_type&quot;:&quot;typing&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;rotate_iteration_delay&quot;:2500}" data-widget_type="animated-headline.default">
+<div class="elementor-widget-container">
+<p class="elementor-headline elementor-headline-animation-type-typing elementor-headline-letters">Bitcoin (BTC) sure did have a blast both figuratively and literally during the past month. Additionally, on October 21, BTC hit a new all-time high as its price surged by an impressive 50.54%. This brought in huge gains to investors, though not last week. That said, it is now believed that there&rsquo;s that one portion of the investment sector that made the most out of it.&nbsp;&nbsp;</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-1b534c01 elementor-widget elementor-widget-theme-post-content" data-id="1b534c01" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<h2><strong>Whales do the trick&nbsp;</strong>&nbsp;</h2>
+<p>The cryptocurrency scene saw some good performance in October albeit the fact that there was this seven percent decline during the past 10 days. While it can&rsquo;t be accurately determined as to how well the crypto market performed last month, financial pundits are pretty certain about one thing &ndash; the whales may have kept the bitcoin rally train chugging.&nbsp;&nbsp;</p>
+<p>Reports noted that addresses having 100 or more bitcoins rose substantially in October. Further, it was learned that more than 400 BTC addresses were added to this collective.&nbsp;&nbsp;&nbsp;</p>
+<div class="jeg_ad jeg_ad_article jnews_content_inline_ads  ">
+<div class="ads-wrapper align-center ">
+<div class="ads_code">
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true">These whales&rsquo; bullishness has resulted in their numbers stepping into BTC&rsquo;s all-time high back in May of this year. Nonetheless, just as when the granddaddy of tokens delved into consolidation this week, over 80 of these addresses chickened out for fears of incurring losses.&nbsp;&nbsp;</div>
+</div>
+</div>
+</div>
+<p>It wasn&rsquo;t just the bitcoin whales that were noticed in October. It was also observed that during bitcoin&rsquo;s consolidation over the past 10 days, seven whales with wallets holding at least 10,000 bitcoin have made a comeback, as this translates to the bitcoin market seeing an inflow of another $4.3 billion in the past 10 days.</p>
+<h2><strong>MicroStrategy&rsquo;s bitcoin stash&nbsp;</strong>&nbsp;</h2>
+<p>Notably, only the business intelligence and mobile software company MicroStrategy remained bullish throughout 2021 since bitcoin whales weren&rsquo;t as active during the last quarter as they are now. Moreover, the firm pointed out during their Q3 report that they added almost 9,000 bitcoin to their stash as such a move made them the world&rsquo;s largest publicly traded corporate owner of BTC with over 114,000 in their stash.&nbsp;&nbsp;</p>
+<p>The week-long consolidation of bitcoin may well seem to have pushed some of the retail traders to sell off their holdings. However, these BTC Whales have managed to avert the price plunge resulting in the said cryptocurrency finishing strong in October.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</body>
+</html>

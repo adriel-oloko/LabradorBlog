@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><img src="https://gcaptain.com/wp-content/uploads/2022/08/2022-08-10T101259Z_799489108_RC2URV932Q6N_RTRMADP_3_EUROPE-WEATHER-RHINE.jpg" /></p>
+<p>By Rene Wagner and Toby Sterling</p>
+<p>BERLIN/LOBITH, Netherlands, Aug 10 (Reuters)&nbsp;&ndash;&nbsp;Already bracing for recession and winter energy shortages, German businesses are grappling with the lack of another precious commodity: rain.&nbsp;</p>
+<p>Weeks of baking temperatures and scant rainfall this summer have drained the&nbsp;<a href="https://gcaptain.com/tag/rhine-river/">water levels of the&nbsp;Rhine</a>, the country&rsquo;s commercial artery, causing delays to shipping and pushing freight costs up more than five-fold.</p>
+<p>A spokesperson for the transport ministry told a government news conference on Wednesday that &ldquo;we do expect an intensification of the low water level&rdquo; on the&nbsp;Rhine, but could not say if or when vessels might no longer be able to pass along the river.</p>
+<p>Flowing from the Swiss Alps to the North Sea via German industrial heartlands, the&nbsp;Rhine&nbsp;is a major route for products ranging from grains, to chemicals to coal.</p>
+<p>Economists estimate the disruption could knock as much as half a percentage point off Germany&rsquo;s overall economic growth this year.&nbsp;</p>
+<p>Barges like the Servia, a 135-meter (148 yards) vessel carrying iron ore from the port of Rotterdam to German steelmaker Thyssenkrupp&rsquo;s&nbsp;plant in Duisburg, can only load 30-40% of its capacity or risk running aground.&nbsp;</p>
+<p>On a trip this week, laden with small piles of iron ore, the boat often hugged the groins along the riverbank where the water was deepest.&nbsp;</p>
+<p>In some places the&nbsp;Rhine&nbsp;was so shallow that other vessels were moored far below the quays where people walk. Signs warning people about dangerously high waters stuck out of the riverbed, and rocks lay exposed.</p>
+<p>&ldquo;Normally you have more than two meters under the ship but now you only have 40 centimeters in some places,&rdquo; the Servia&rsquo;s captain Peter Claereboets told Reuters. &ldquo;And then for us the challenge is to get past those points without touching, without damaging the ship.&rdquo;</p>
+<p>&ldquo;Because of the low water levels, the sailing route gets narrower, and we actually start traveling like trains, in a convoy,&rdquo; he added.</p>
+<p><a href="https://gcaptain.com/low-water-on-rhine-threatens-repeat-of-2018/">Low Water on Rhine Threatens Repeat of 2018</a></p>
+<p>Other boats, unable to cope with shallower waters, have stopped sailing altogether.&nbsp;</p>
+<p>The resulting bottlenecks are another drag on Europe&rsquo;s largest economy, which is grappling with high inflation, supply chain disruptions and soaring gas prices after Russia&rsquo;s invasion of Ukraine in February.&nbsp;</p>
+<p>Freight charges on the&nbsp;Rhine&nbsp;have risen to around 110 euros ($112) per tonne from around 20 euros in June for a liquid tanker barge. Chemicals group BASF&nbsp;last week said it could not rule out production cuts.&nbsp;</p>
+<p>Credit rating agency Moody&rsquo;s said the low&nbsp;Rhine&nbsp;water levels will increase costs for chemicals companies, particularly those with production facilities on the upper&nbsp;Rhine, and could lead to production cuts.&nbsp;</p>
+<p>Coal power plants &ndash; now back in fashion as an alternative to Russian gas supplies &ndash; face supply shortages with boats unable to take on enough coal.&nbsp;</p>
+<p>Utility Uniper, which turned to the German government for a bailout in July after becoming an early casualty of the energy crisis, has since warned of possible output cuts at two of its plants that make up 4% of Germany&rsquo;s coal-generated electricity capacity.&nbsp;</p>
+<p>To the south, Switzerland is releasing 245,000 cubic meters of its oil reserves to plug supply constraints caused by the low&nbsp;Rhine&nbsp;levels.&nbsp;</p>
+<h2 id="h-growth-at-risk">GROWTH AT RISK</h2>
+<p>The situation has prompted&nbsp;<a href="https://gcaptain.com/low-water-on-rhine-threatens-repeat-of-2018/">comparisons with 2018</a>, when&nbsp;Rhine&nbsp;levels also plunged.&nbsp;</p>
+<p>&ldquo;It might not be a mistake to assume at this point that the low water will weigh on GDP by a quarter to half a percentage point,&rdquo; said Jens-Oliver Niklasch, an economist at LBBW.</p>
+<p>&ldquo;I think it&rsquo;s more dangerous this time because the supply situation is tight anyway and the coal-fired power plants in particular, which are extremely important for generating electricity, are likely to be hit harder.&rdquo;</p>
+<p>Stefan Schneider, an economist at Deutsche Bank, expects the German economy will fall into a mild recession from the third quarter and that overall growth in 2022 would be 1.2%.</p>
+<p>&ldquo;If water levels continue to drop, growth could also drop just below 1%,&rdquo; he said.&nbsp;</p>
+<p>The extent of the drop in&nbsp;Rhine&nbsp;water level is monitored at a chokepoint at Kaub&nbsp;WL-KAUB&nbsp;in southwestern Germany, where it reached 48 cm on Wednesday compared with the 1.5 meters needed to carry fully loaded vessels.&nbsp;</p>
+<p>&ldquo;If you compare this with the last few years, the water levels are exceptionally low,&rdquo; said Christian Hellbach of Waterways and Shipping Office in Duisburg.&nbsp;</p>
+<p>Some companies have adapted since the 2018 drought. In an emailed statement, BASF said it had implemented an early warning system for low water levels and is also chartering and developing ships suitable for shallower waters.</p>
+<p>German coal importers meanwhile hope river levels will rise soon to allow them to meet a demand that, as the war in Ukraine grinds on, shows no sign of abating.</p>
+<p>&ldquo;Before the war it was definitely 1 in 10 boats were doing coal, and since the war we&rsquo;re definitely at 1 in 5, probably more. So coal transport since the war in Ukraine jumped up all at once,&rdquo; Claereboets said.&nbsp;</p>
+<p>($1 = 0.9793 euros)</p>
+<p>(Reporting by Rene Wagner, Toby Sterling, Vera Eckert, Esther Verkaik, Piroschka van de Wouw, Andreas Kranz, Max Schwarz, Michael Hogan, Paul Carrel; writing by Matthias Williams; Editing by Jane Merriman and Emelia Sithole-Matarise)</p>
+<p><em>(c) Copyright Thomson Reuters 2022.</em></p>
+</body>
+</html>

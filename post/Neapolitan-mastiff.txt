@@ -1,0 +1,6 @@
+<h3 class="breed-info__section-title"><img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2009/01/26133242/Neapolitan-Mastiff-on-lead-standing-in-the-grass-outdoors.20190813025752970.jpg" alt="" width="360" height="240" /></h3>
+<h3 class="breed-info__section-title">About the Neapolitan Mastiff</h3>
+<div class="breed-info__content-wrap">
+<p>Unless you&rsquo;ve been to Jurassic Park, you&rsquo;ve never seen anything like a Mastino. These majestic guardians of startling appearance are massive, powerful dogs. The U.S. Neapolitan Mastiff Club describes their dog&rsquo;s head as &ldquo;astounding&rdquo;&mdash;and give them credit for hitting upon just the right adjective. The profuse hanging wrinkles and folds, and pendulous lips, make a Mastino look like a marzipan Mastiff that&rsquo;s been out in the sun too long. And yet, the breed&rsquo;s inner dignity and nobility can only be described as beautiful.</p>
+<p>Source: <a href="https://www.akc.org" target="_blank" rel="noopener">https://www.akc.org</a></p>
+</div>

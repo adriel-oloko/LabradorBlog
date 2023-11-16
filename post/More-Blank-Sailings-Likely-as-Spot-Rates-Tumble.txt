@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><img src="https://gcaptain.com/wp-content/uploads/2022/07/shutterstock_708817909.jpg" alt="Aerial top view container ship" /></p>
+<p>Container spot rates are falling fast on all export routes from China in what should normally be the peak season for demand.</p>
+<p>According to today&rsquo;s reading of the Ningbo Containerized Freight Index (NCFI), all 21 of the routes it covers were trending in the red.</p>
+<p>In particular, the NCFI commentary noted, the North Europe and Mediterranean routes were &ldquo;over-supplied&rdquo; and demand for transpacific services was &ldquo;in the doldrums&rdquo;.</p>
+<p>Alongside headlines of another tranche of record&nbsp;<a href="https://gcaptain.com/container-shipping-lines-set-to-smash-profit-record/">eye-watering quarterly profits</a>&nbsp;posted by ocean carriers this week, there was a general acceptance from the lines that the supply/demand scales were shifting back in favour of the shipper. Both short-term prices and long-term contract rates were experiencing downward pressure.</p>
+<p>&ldquo;There is a fairly material easing of demand,&rdquo; Hapag-Lloyd&rsquo;s Rolf Habben Jansen&nbsp;<a href="https://gcaptain.com/hapag-lloyd-first-half-profit-triples-but-uncertainties-abound/">told analysts</a>&nbsp;at an interim H1 earnings call yesterday, &ldquo;and we also see that in the bookings and the quotations being requested. &rdquo;</p>
+<p>Nevertheless, where there are pockets of port congestion, carriers have been able to mitigate the rate erosion, for example on the Asia-North Europe tradelane, where hub ports suffer a combination of increased import dwell times, labour shortages and industrial action.</p>
+<p>The North Europe component of the Freightos Baltic Index (FBX) fell 5% this week, to $9,969 per 40ft, compared with spot rates to Mediterranean ports which slumped 10%, to $10,649 per 40ft, where there is little or no congestion.</p>
+<p>And for the US west coast, the FBX reading of $5,939 per 40ft represented a further 11% drop, as the average wait times for a berth at the Los Angeles and Long Beach terminals reduced to three days.</p>
+<p>East coast ports saw a more modest decline in the FBX, of 6%, to $9,560 per 40ft, as ports on the Atlantic remained backed up with vessel arrivals.</p>
+<p>Mr Habben Jansen said the carrier&rsquo;s transpacific bookings were &ldquo;holding up reasonably well&rdquo;, in contrast with Europe, where there was &ldquo;more nervousness&rdquo; being shown by consumers.</p>
+<p>However, the latest Global Port Tracker report, released this week by the US National Retail Federation and consultant Hackett Associates, was&nbsp;<a href="https://gcaptain.com/2022-retail-imports-set-to-gain-over-2021-despite-slow-down/">less optimistic</a>&nbsp;about US trade. Founder Ben Hackett said:&nbsp;&ldquo;The heady days of growth in imports are quickly receding.</p>
+<p>&ldquo;The outlook is for a decline in volumes compared with 2021 over the next few months, and the decline is expected to deepen in 2023.&rdquo;</p>
+<p>Ocean carriers will look to blank as much capacity as possible in the coming weeks and months, to level up the supply/demand equation where their visibility shows the weakest booking trends.</p>
+<p>Meanwhile, the eight-day&nbsp;<a href="https://gcaptain.com/uks-biggest-container-port-to-be-hit-by-eight-days-of-strikes/">strike at the UK&rsquo;s port of Felixstowe</a>, commencing on 21 August, will result in several carriers sitting out the industrial action and taking out capacity.</p>
+<p>Maersk said today the strategy for 2M Alliance vessels scheduled to call at Felixstowe during the strike would be a combination of bringing forward the rotations of three loops, while delaying the arrival of five others until after the stoppage .</p>
+<p>Most shippers would prefer this to having their containers stranded at another port on the continent, or having to rearrange haulage to collect imports at Southampton or London Gateway.</p>
+<p>However, they are far from impressed by Maersk&rsquo;s decision not to offer a moratorium on demurrage and detention charges for the duration of the strike.</p>
+<p>&ldquo;That&rsquo;s just not fair,&rdquo; a Felixstowe-based NVOCC complained to&nbsp;<em>The Loadstar</em>. &ldquo;It annoys me that they just assume they can get away with this sort of thing.&rdquo;</p>
+</body>
+</html>

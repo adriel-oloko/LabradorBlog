@@ -1,0 +1,45 @@
+<p><img src="../../../post/images/sale.jpg" /> <br /><br /></p>
+<table style="border-collapse: collapse; width: 100%; border: 0px solid #ddd; font-size: 13px; text-align: left;">
+<tbody>
+<tr>
+<th><span style="font-size: 12pt;">Title:</span></th>
+<th><span style="font-size: 12pt;">Labrador.inc</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Status:</span></th>
+<th><span style="font-size: 12pt;">For sale</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Price:</span></th>
+<th><span style="font-size: 12pt;">On request</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Responsive:</span></th>
+<th><span style="font-size: 12pt;">Yes</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Custom text editor:</span></th>
+<th><span style="font-size: 12pt;">Yes</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Transfer:</span></th>
+<th><span style="font-size: 12pt;">2-3 days</span></th>
+</tr>
+<tr>
+<th><span style="font-size: 12pt;">Contact:</span></th>
+<th><span style="font-size: 12pt;"><a style="color: blue;" href="https://wa.me/+2349038913378">Whatsapp</a></span></th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="font-size: 13px;"><span style="font-size: 12pt;">Modern and responsive blog for sale. Built using a custom design and featuring an auto-detecting most active post software system.</span></p>
+<p style="font-size: 13px;"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KCjxzdmcgZmlsbD0iIzBjNzRkYiIgd2lkdGg9IjY0MHB4IiBoZWlnaHQ9IjIwOXB4IiB2aWV3Qm94PSIwIDAgNjQwIDIwOSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxwYXRoIGQ9Ik01NTQsNDguMDE0ODY4MSBMNTc1LDEwNy4xNTYzNTUgTDU4MCwxMjUuMTk5NTIgTDU4NiwxMDcuMTU2MzU1IEw2MDcsNDguMDE0ODY4MSBMNjQwLDQ4LjAxNDg2ODEgTDU4NC45LDIwMS45ODMyMTMgTDU0OS4zLDIwOSBMNTY0LDE2Ny4zMDAyNCBMNTIxLDQ4LjAxNDg2ODEgTDU1NCw0OC4wMTQ4NjgxIFogTTEzMi4xNzQ5MTcsLTEuNDIxMDg1NDdlLTE0IEMxNjYuMTY4NDY3LDAuMjAwMzkyOTI3IDE5OS43NjIwOTIsMjguNDU1Nzk1NyAxOTkuNzYyMDkyLDY5LjYzNjU0MjIgQzE5OS43NjIwOTIsNjkuNjM2NTQyMiAxOTkuOTgyOTUsODAuNjM2ODQxNSAxOTkuOTk5MDcyLDkzLjczMjczMDkgTDE5OS45OTk1NDYsOTYuMjYzNzUyNSBDMTk5Ljk5NzA0Nyw5OS4wOTkzMTI0IDE5OS45ODQwNDksMTAyLjAwNDAwOCAxOTkuOTU2NDU1LDEwNC44OTIwNzEgTDE5OS45MzgxMTMsMTA2LjYyMjIyNiBDMTk5LjgxMDQ0MiwxMTcuNTU4NTQ3IDE5OS40NjAxNDksMTI4LjAwNjk5NCAxOTguNjYyMywxMzMuMjYxMjk3IEMxOTMuOTYzMTkyLDE2NC43MjI5ODYgMTcwLjQ2NzY1MSwxODYuNDY1NjE5IDEzOC4wNzM3OTgsMTkxLjk3NjQyNCBDMTA4Ljg3OTMzOCwxOTcuNjg3NjIzIDkxLjU4MjYyMDUsMjAwLjk5NDEwNiA4NS45ODM2ODMsMjAyLjA5NjI2NyBDODQuNTcyMTg2MiwyMDIuMzkwOTYzIDgwLjMyMzg1NzQsMjAyLjk5NzY4OSA3Ni4xMjg0Mzk1LDIwMy40NDczOCBMNzUuMjkwOTE3NiwyMDMuNTM1MDg1IEM3Mi42NDY0MjE2LDIwMy44MDUzMDggNzAuMTAwNDIyNywyMDQgNjguMzg3MDIyMywyMDQgQzMyLjc5Mzc3NjgsMjA0IDAuNDk5OTA1MTM0LDE3Ny4zNDc3NDEgMCwxMzQuMzYzNDU4IEwwLjAwMDg3ODYzMzI2NCwxMzIuMjExODQgQzAuMDAwOTQ2MjIwNDM4LDEzMi4xMDU5ODggMC4wMDEwMTkwMDY2MywxMzEuOTk2NTgzIDAuMDAxMDk3MzkxNzUsMTMxLjg4MzcwMyBMMC4wMDE5NjQ4MjcxNCwxMzAuNzc2MTQ3IEMwLjAwNjQ3MjM3MTc1LDEyNS41ODg5NDEgMC4wMjEzMjA3NTQsMTE1LjQ4MTUzOCAwLjA3MDIzMzA3MiwxMDUuMTc5MDY1IEwwLjA4MjEzNjAxMzIsMTAyLjgwMDI2IEwwLjA4MjEzNjAxMzIsMTAyLjgwMDI2IEwwLjA5MDc3NTE3MzgsMTAxLjIxNjkxNCBDMC4xNDg4MTE3Niw5MC45NDIwODc4IDAuMjQzOTUzNzA1LDgxLjA3Nzk3NjQgMC4zOTk5MjQxMDcsNzYuMzQ5NzA1MyBDMS41OTk2OTY0Myw0NC45ODgyMTIyIDIzLjI5NTU3OTIsMTkuNjM4NTA2OSA2NC41ODc3NDMzLDExLjUyMjU5MzMgTDY0LjY0NzU0MDgsMTEuNTEwOTY0MSBDNjYuNTg4MDAzNywxMS4xMzM1OTA2IDExNS4xMjAxNTQsMS42OTUzMjQxNyAxMTcuMTc3NzYzLDEuMzAyNTU0MDMgQzEyMS45NzY4NTMsMC40MDA3ODU4NTUgMTI3LjI3NTg0NywtMS40MjEwODU0N2UtMTQgMTMyLjE3NDkxNywtMS40MjEwODU0N2UtMTQgWiBNMjk4LDE1LjkzODEyOTUgTDI5OCw0OC4wMTQ4NjgxIEwzMjgsNDguMDE0ODY4MSBMMzI4LDc3LjA4NDQxMjUgTDI5OCw3Ny4wODQ0MTI1IEwyOTgsMTI3LjIwNDMxNyBDMjk4LDEzNy4wMjc4MTggMzA1LjQsMTQxLjIzNzg5IDMxMCwxNDEuMjM3ODkgQzMxNC4zNTc4OTUsMTQxLjIzNzg5IDMxOC4yNjcwMzYsMTQwLjY5ODA5NCAzMjIuMzIyNjEzLDEzOS40NDgwNDEgTDMyMywxMzkuMjMzMDk0IEwzMzAsMTYyLjI4ODI0OSBDMzI3LDE2NC4yOTMwNDYgMzE4LDE2OS4zMDUwMzYgMzAxLDE2OS4zMDUwMzYgQzI4NCwxNjkuMzA1MDM2IDI2Ni40LDE1Ni4yNzM4NjEgMjY2LDEzNC4yMjExMDMgQzI2NS44NTc4OTUsMTI3LjI0MTI0NyAyNjUuNzgzMTAyLDExOS4yOTQyNTcgMjY1Ljc3NTYyMywxMTAuMzgwMTM0IEwyNjUuNzc1NjIzLDEwNy4zNzI5NCBDMjY1Ljc4Mjc2Myw5OC42NTg4NTQgMjY1Ljg1MTIzNSw4OS4wNjM1NTc4IDI2NS45ODEwMzksNzguNTg3MDUwOSBMMjY2LDc3LjA4NDQxMjUgTDI0NSw3Ny4wODQ0MTI1IEwyNDUsNDguMDE0ODY4MSBMMjY2LDQ4LjAxNDg2ODEgTDI2NiwyMi4xNTI5OTc2IEwyOTgsMTUuOTM4MTI5NSBaIE0xNTUuOTcwNDAyLDM2LjU3MTcwOTIgTDc1Ljk4NTU4MDQsNTIuMTAyMTYxMSBMNzUuOTg1NTgwNCw4My4zNjM0NTc4IEw0My45OTE2NTE4LDg5LjU3NTYzODUgTDQzLjk5MTY1MTgsMTY3LjUyODQ4NyBMMTIzLjk3NjQ3MywxNTEuOTk4MDM1IEwxMjMuOTc2NDczLDEyMC43MzY3MzkgTDE1NS45NzA0MDIsMTE0LjUyNDU1OCBMMTU1Ljk3MDQwMiwzNi41NzE3MDkyIFogTTQ2OCw0NS4wMDc2NzM5IEM0OTYuMTE2LDQ0LjgwOTE5OSA1MTcuMzcxMyw2Ny4yMDcwODI1IDUxNy45ODc2NTQsOTUuMjc3NjM0MyBMNTE4LDk2LjEyOTk3NiBMNTE4LDE2Ny4zMDAyNCBMNDg2LDE2Ny4zMDAyNCBMNDg2LDEwMS4xNDE5NjYgQzQ4NS45LDg2LjEwNTk5NTIgNDc1LDczLjk3Njk3ODQgNDYwLDc0LjA3NzIxODIgQzQ0NS4xNSw3NC4xNzY0NTU2IDQzMi4xNjIxOSw4NS44Njg2MDczIDQzMi4wMDA5NDksMTAwLjY5MTgyOCBMNDMyLDE2Ny4zMDAyNCBMNDAwLDE2Ny4zMDAyNCBMNDAwLDQ4LjAxNDg2ODEgTDQyOSw0OC4wMTQ4NjgxIEw0MzAuMSw2MS45NDgyMDE0IEM0MzkuNCw1MS43MjM3NDEgNDUzLjEsNDUuMTA3OTEzNyA0NjgsNDUuMDA3NjczOSBaIE0zODAsNDguMDE0ODY4MSBMMzgwLDE2Ny4zMDAyNCBMMzQ4LDE2Ny4zMDAyNCBMMzQ4LDQ4LjAxNDg2ODEgTDM4MCw0OC4wMTQ4NjgxIFogTTEyMy45NzY0NzMsNzQuMDQ1MTg2NiBMMTIzLjk3NjQ3MywxMjAuNzM2NzM5IEw3NS45ODU1ODA0LDEzMC4wNTUwMSBMNzUuOTg1NTgwNCw4My4zNjM0NTc4IEwxMjMuOTc2NDczLDc0LjA0NTE4NjYgWiBNMzgwLC0yLjg0MjE3MDk0ZS0xNCBMMzgwLDMxLjE3NDU4MDMgTDM0OCwzNy4zODk0NDg0IEwzNDgsNi4yMTQ4NjgxMSBMMzgwLC0yLjg0MjE3MDk0ZS0xNCBaIj48L3BhdGg+Cjwvc3ZnPg==" alt="TinyMCE logo" /></p>
+<p style="font-size: 13px;"><img src="../../../post/images/Adobe_Post_20211213_1618230.3838189784960967.png" alt="SplinterPA logo" width="1080" height="566" /></p>
+<p style="font-size: 13px;">&nbsp;</p>
+<ul>
+<li style="font-size: 13px;"><span style="font-size: 12pt;">Mordern and unique design</span></li>
+<li style="font-size: 13px;"><span style="font-size: 12pt;">Responsive UI</span></li>
+<li style="font-size: 13px;"><span style="font-size: 12pt;">Uses custom SplinterPA for feautured posts and tags</span></li>
+<li style="font-size: 13px;"><span style="font-size: 12pt;">Text editor created upon TinyMCE</span></li>
+<li style="font-size: 13px;"><span style="font-size: 12pt;">Sleek admin dashboard</span></li>
+</ul>

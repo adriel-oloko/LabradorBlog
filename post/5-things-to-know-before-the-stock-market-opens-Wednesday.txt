@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h2 class="ArticleBody-subtitle">1. Nasdaq futures jump 1.5% as Google parent Alphabet surges</h2>
+<div id="wM2939TLN" class="internal-link"></div>
+<div id="ArticleBody-InlineImage-107009800" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/107009800-1643754745192Traders-TF-Photo-20220201-AJ-004-PRESS-1.jpg?v=1644346987&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009800-1643754745192Traders-TF-Photo-20220201-AJ-004-PRESS-1.jpg?v=1644346987&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009800-1643754745192Traders-TF-Photo-20220201-AJ-004-PRESS-1.jpg?v=1644346987&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009800-1643754745192Traders-TF-Photo-20220201-AJ-004-PRESS-1.jpg?v=1644346987&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/107009800-1643754745192Traders-TF-Photo-20220201-AJ-004-PRESS-1.jpg?v=1644346987&amp;w=929&amp;h=523&amp;ffmt=webp" alt="Traders on the floor of the NYSE, Feb. 1, 2022." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">Traders on the floor of the NYSE, Feb. 1, 2022.</div>
+<div class="InlineImage-imageEmbedCredit">Source: NYSE</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>U.S. stock futures&nbsp;rose Wednesday, with Google parent&nbsp;Alphabet&rsquo;s over 9% premarket surge on strong earnings pushing Nasdaq futures more than 1.5% higher as Wall Street looks to advance for the fourth straight session. Shares of Facebook parent&nbsp;Meta Platforms&nbsp;rose 3% in the premarket ahead of earnings out after the bell.The late-January market rally&nbsp;continued into February, with the&nbsp;Dow Jones Industrial Average, the&nbsp;S&amp;P 500&nbsp;and the&nbsp;Nasdaq&nbsp;closing up roughly 0.7% each. The Nasdaq remained in correction territory heading into the new trading day.</p>
+<div class="BoxInline-container  ">
+<div id="BoxInline-ArticleBody-6" class="BoxInline-container" data-module="mps-slot"></div>
+</div>
+<p>Ahead of Friday&rsquo;s monthly employment report, ADP said before-the-bell Wednesday that&nbsp;U.S. companies cut 301,000 jobs&nbsp;in January as the spread of the Covid omicron variant slammed hiring. Economists had expected growth of 200,000 new private-sector positions. December was downwardly revised to a 776,000 gain. It&rsquo;s worth noting that during the pandemic, the ADP numbers have not been the best indicator of the government&rsquo;s overall jobs report.</p>
+<p>&nbsp;</p>
+<h2 class="ArticleBody-subtitle">2. Alphabet delivers strong quarter, plans a 20-for-1 stock split</h2>
+<div id="WooYIieJet" class="internal-link"></div>
+<div id="ArticleBody-InlineImage-106634080" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/106634080-1595868062406-GettyImages-1207206237.jpg?v=1629124528&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106634080-1595868062406-GettyImages-1207206237.jpg?v=1629124528&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106634080-1595868062406-GettyImages-1207206237.jpg?v=1629124528&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106634080-1595868062406-GettyImages-1207206237.jpg?v=1629124528&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/106634080-1595868062406-GettyImages-1207206237.jpg?v=1629124528&amp;w=929&amp;h=523&amp;ffmt=webp" alt="Google logo on campus building" /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">American multinational technology company Google logo seen at Googleplex, the corporate headquarters complex of Google and its parent company Alphabet Inc.</div>
+<div class="InlineImage-imageEmbedCredit">Alex Tai | SOPA Images | LightRocket | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>If Alphabet&rsquo;s premarket advance were to hold at the open, the stock would top November&rsquo;s all-time high and go back above a $2 trillion market value. Late Tuesday, the tech giant reported better-than-expected earnings and revenue for the fourth quarter.&nbsp;It beat estimates&nbsp;in the services and cloud businesses. Alphabet&nbsp;announced a 20-for-1 stock split, pending shareholder approval, leading to speculation about whether the name could eventually be added to the Dow 30. It also repurchased a record $13.47 billion of stock in the quarter.</p>
+</div>
+<h2 class="ArticleBody-subtitle">3. PayPal plunges on weak guidance; AMD surges on strong outlook</h2>
+<div id="ncEZP1QoUh" class="internal-link"></div>
+<div id="ArticleBody-InlineImage-106977312" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/106977312-1637235984176-gettyimages-1231032951-omarques_07022021_krktech_18.jpeg?v=1646855196&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106977312-1637235984176-gettyimages-1231032951-omarques_07022021_krktech_18.jpeg?v=1646855196&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106977312-1637235984176-gettyimages-1231032951-omarques_07022021_krktech_18.jpeg?v=1646855196&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106977312-1637235984176-gettyimages-1231032951-omarques_07022021_krktech_18.jpeg?v=1646855196&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/106977312-1637235984176-gettyimages-1231032951-omarques_07022021_krktech_18.jpeg?v=1646855196&amp;w=929&amp;h=523&amp;ffmt=webp" alt="The PayPal logo displayed on a smartphone screen with a stock market graphic in the background." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">The PayPal logo displayed on a smartphone screen with a stock market graphic in the background.</div>
+<div class="InlineImage-imageEmbedCredit">Omar Marques | SOPA Images | LightRocket | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>PayPal&nbsp;reported disappointing fourth-quarter results after the closing bell Tuesday, and the&nbsp;stock got pummeled, sinking more than 18% in the premarket. The digital payments company slightly missed estimates for fourth-quarter earnings and slightly beat on revenue. But it was the forward guidance that really crushed the stock.</p>
+</div>
+<div id="ArticleBody-InlineImage-106633913" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/106633913-1595860122809-gettyimages-1160287370-342201311_1-10.jpeg?v=1595860166&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106633913-1595860122809-gettyimages-1160287370-342201311_1-10.jpeg?v=1595860166&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106633913-1595860122809-gettyimages-1160287370-342201311_1-10.jpeg?v=1595860166&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106633913-1595860122809-gettyimages-1160287370-342201311_1-10.jpeg?v=1595860166&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/106633913-1595860122809-gettyimages-1160287370-342201311_1-10.jpeg?v=1595860166&amp;w=929&amp;h=523&amp;ffmt=webp" alt="The Epyc 2nd generation chip, manufactured by Advanced Micro Devices Inc. (AMD) is arranged for a photograph during a launch event in San Francisco, California, U.S., on Wednesday, Aug. 7, 2019." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">The Epyc 2nd generation chip, manufactured by Advanced Micro Devices Inc. (AMD) is arranged for a photograph during a launch event in San Francisco, California, U.S., on Wednesday, Aug. 7, 2019.</div>
+<div class="InlineImage-imageEmbedCredit">David Paul Morris | Bloomberg | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>Advanced Micro Devices&nbsp;shares jumped 11% in Wednesday&rsquo;s premarket, the morning after the chipmaker reported fourth-quarter earnings and revenue that beat estimates and delivered a&nbsp;strong full-year sales forecast. With the closing of the Xilinx acquisition on the horizon, AMD is poised to add more firepower to compete against Intel in the data center semiconductor market.</p>
+<p>&nbsp;</p>
+<h2 class="ArticleBody-subtitle">4. GM sees strong full-year earnings as chip shortage abates</h2>
+<div id="U_OQFAEgFo" class="internal-link"></div>
+<div id="ArticleBody-InlineImage-107006161" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/107006161-1643135551891-gettyimages-1237977593-AFP_9X42QN.jpeg?v=1652179045&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107006161-1643135551891-gettyimages-1237977593-AFP_9X42QN.jpeg?v=1652179045&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107006161-1643135551891-gettyimages-1237977593-AFP_9X42QN.jpeg?v=1652179045&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107006161-1643135551891-gettyimages-1237977593-AFP_9X42QN.jpeg?v=1652179045&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/107006161-1643135551891-gettyimages-1237977593-AFP_9X42QN.jpeg?v=1652179045&amp;w=929&amp;h=523&amp;ffmt=webp" alt="A General Motors sign is seen during an event on January 25, 2022 in Lansing, Michigan. - General Motors will create 4,000 new jobs and retaining 1,000, and significantly increasing battery cell and electric truck manufacturing capacity." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">A General Motors sign is seen during an event on January 25, 2022 in Lansing, Michigan. - General Motors will create 4,000 new jobs and retaining 1,000, and significantly increasing battery cell and electric truck manufacturing capacity.</div>
+<div class="InlineImage-imageEmbedCredit">Jeff Kowalsky | AFP | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>General Motors&nbsp;shares rose more than 2% in the premarket after the automaker said late Tuesday that it expects to generate an operating profit this year of between $13 billion and $15 billion as a semiconductor shortage that marred vehicle production and sales for most of last year&nbsp;shows signs of improving. GM reported a mixed fourth quarter, beating estimates on earnings but slightly missing on revenue.</p>
+<div class="MidResponsive-midResponsiveContainer">
+<div id="MidResponsive-1" class="" data-module="mps-slot"></div>
+</div>
+</div>
+<h2 class="ArticleBody-subtitle">5. Starbucks earnings miss on higher costs, CEO sees more inflation</h2>
+<div id="8Lzyziy-8f" class="internal-link"></div>
+<div id="ArticleBody-InlineImage-106864761" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/106864761-1621263427663-106864761-1617805735098-gettyimages-1230784828-STARBUCKS-EARNS.jpg?v=1639756478&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106864761-1621263427663-106864761-1617805735098-gettyimages-1230784828-STARBUCKS-EARNS.jpg?v=1639756478&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106864761-1621263427663-106864761-1617805735098-gettyimages-1230784828-STARBUCKS-EARNS.jpg?v=1639756478&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106864761-1621263427663-106864761-1617805735098-gettyimages-1230784828-STARBUCKS-EARNS.jpg?v=1639756478&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/106864761-1621263427663-106864761-1617805735098-gettyimages-1230784828-STARBUCKS-EARNS.jpg?v=1639756478&amp;w=929&amp;h=523&amp;ffmt=webp" alt="A person wearing a protective mask enters a Starbucks coffee shop in San Francisco, California, U.S., on Thursday, Jan. 21, 2021." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">A person wearing a protective mask enters a Starbucks coffee shop in San Francisco, California, U.S., on Thursday, Jan. 21, 2021.</div>
+<div class="InlineImage-imageEmbedCredit">David Paul Morris | Bloomberg | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>Starbucks&nbsp;shares fell 3% in premarket trading following the coffee giant saying after the bell Tuesday that&nbsp;higher costs are weighing on profits, leading the company to miss fiscal first-quarter earnings estimates and cut its full-year profit outlook. Starbucks did beat estimates on Q1 revenue. CEO Kevin Johnson said on the company&rsquo;s earnings call that he&rsquo;s anticipating higher inflation for the rest of the year.</p>
+</div>
+</div>
+</div>
+</body>
+</html>

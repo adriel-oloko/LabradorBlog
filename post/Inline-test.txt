@@ -1,0 +1,5 @@
+<div><button onclick="gh()">gh</button></div>
+<p>67</p>
+<script>function gh() {
+alert("abc");
+}</script>

@@ -1,0 +1,41 @@
+CREATE TABLE IF NOT EXISTS posts (
+p_id INT AUTO_INCREMENT PRIMARY KEY,
+author TEXT NOT NULL,
+title TEXT NOT NULL,
+file TEXT NOT NULL,
+hour TEXT NOT NULL,
+minute TEXT NOT NULL,
+month TEXT NOT NULL,
+day TEXT NOT NULL,
+year TEXT NOT NULL,
+header_img_url TEXT NOT NULL,
+catch TEXT NOT NULL,
+fle TEXT NOT NULL,
+status TEXT NOT NULL,
+size TEXT NOT NULL
+);
+
+
+CREATE TABLE IF NOT EXISTS comments (
+c_id INT AUTO_INCREMENT PRIMARY KEY,
+p_id INT NOT NULL,
+author TEXT NOT NULL,
+content TEXT NOT NULL,
+hour TEXT NOT NULL,
+minute TEXT NOT NULL,
+month TEXT NOT NULL,
+day TEXT NOT NULL,
+year TEXT NOT NULL
+);
+
+
+CREATE TABLE popular_tags (
+id TEXT,
+tag TEXT
+);
+
+
+CREATE TABLE tags (
+p_id TEXT,
+tag TEXT
+);

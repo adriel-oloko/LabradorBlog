@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p><span style="text-decoration: line-through;"><span style="text-decoration: underline;"><em><strong>First and foremost</strong></em></span></span><br /><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="post/images/FB_IMG_15737834636492459.jpg" alt="" /></p>
+<h3 style="text-align: center;">Le Memes (it's French)</h3>
+<hr />
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15730703330351184.jpg" alt="" /> <br /><br /><img src="post/images/FB_IMG_15755051828268252.jpg" alt="" /></p>
+<p><img src="post/images/FB_IMG_15738338907230897.jpg" alt="" width="474" height="474" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15727290054594542.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15710276990235498.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15727282179442345.jpg" alt="" width="710" height="769" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15660603828918527.jpg" alt="" width="480" height="541" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15659824035032178.jpg" alt="" width="480" height="673" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15659824820945683.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15655439402727048.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/FB_IMG_15654198770907810.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/Screenshot_20210305-203912.png" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/Screenshot_20210222-061240.png" alt="" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/Screenshot_20210205-232410.png" alt="" width="720" height="642" /></p>
+<p>&nbsp;</p>
+<p><img src="post/images/Screenshot_20210211-192113.png" alt="" /></p>
+<p>&nbsp;</p>
+<hr style="width: 75%; margin: auto;" />
+<p>Cheers,</p>
+<p>Adriel😉</p>
+</body>
+</html>

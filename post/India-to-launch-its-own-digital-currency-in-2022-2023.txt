@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="JumpLink-container"><span style="color: #236fa1;"><strong>KEY POINTS</strong></span></div>
+<div id="MainContentContainer" class="BrandPageWrapper-contentWrapper" role="main">
+<div class="Regular Article PageBuilder-page">
+<div class="PageBuilder-pageWrapper">
+<div class="PageBuilder-containerFluidWidths PageBuilder-pageRow">
+<div class="PageBuilder-col-9 PageBuilder-col PageBuilder-article">
+<div id="RegularArticle-KeyPoints-4" class="RenderKeyPoints-keyPoints" data-test="keyPoints-1" data-analytics="RegularArticle-keyPoints-4-1">
+<div class="RenderKeyPoints-wrapper">
+<div class="RenderKeyPoints-list">
+<div>
+<div class="group">
+<ul>
+<li>India&rsquo;s central bank will issue a digital rupee in the 2022-2023 financial year which begins Apr. 1.</li>
+<li>India&rsquo;s finance minister Nirmala Sitharaman said the introduction of the digital rupee would be based on &ldquo;blockchain and other technologies.&rdquo;</li>
+<li>India would be one of the world&rsquo;s largest economies to introduce a so-called central bank digital currency (CBDC) if it sticks to its plans, following in the footsteps of China which is testing a digital yuan.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="RegularArticle-ArticleBody-5" class="ArticleBody-articleBody" data-module="ArticleBody" data-test="articleBody-2" data-analytics="RegularArticle-articleBody-5-2">
+<div id="ArticleBody-InlineImage-106755529" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/106755529-1603335435778-gettyimages-1228320224-20207.jpeg?v=1603335115&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106755529-1603335435778-gettyimages-1228320224-20207.jpeg?v=1603335115&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106755529-1603335435778-gettyimages-1228320224-20207.jpeg?v=1603335115&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/106755529-1603335435778-gettyimages-1228320224-20207.jpeg?v=1603335115&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/106755529-1603335435778-gettyimages-1228320224-20207.jpeg?v=1603335115&amp;w=929&amp;h=523&amp;ffmt=webp" alt="Two thousand rupee notes on display with an Indian flag in the background." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">Two thousand rupee notes on display with an Indian flag in the background.</div>
+<div class="InlineImage-imageEmbedCredit">Manish Rajput | SOPA Images | LightRocket via Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>India&rsquo;s central bank will launch a digital version of the rupee in the next financial year, the country&rsquo;s finance minister said on Tuesday.</p>
+<p>&ldquo;Introduction of a central bank digital currency will give a boost, a big boost to the digital economy,&rdquo; Nirmala Sitharaman said as she delivered the country&rsquo;s annual budget. &ldquo;Digital currency will also lead to a more efficient and cheaper currency management system.&rdquo;</p>
+<div class="BoxInline-container  ">
+<div id="BoxInline-ArticleBody-5" class="BoxInline-container" data-module="mps-slot">
+<div id="div-gpt-boxinline-2033071342-C1" class="mps-slot" data-mps-slot="boxinline-C1" data-mps-loadset="0" data-mps-clone="1"></div>
+</div>
+</div>
+<p>The Reserve Bank of India will introduce the digital rupee in the 2022-2023 financial year which begins on Apr. 1.</p>
+<p>Sitharaman gave no details about how the digital rupee would work or what it would look like, but said it would be introduced &ldquo;using blockchain and other technologies.&rdquo;</p>
+<p>Blockchain refers to the technology&nbsp;that was originally created alongside bitcoin, but the definition has since evolved as its applications have moved beyond cryptocurrencies.</p>
+<p>India would be one of the world&rsquo;s largest economies to introduce a so-called central bank digital currency (CBDC) if it sticks to its plans.</p>
+<p>China has been working on a&nbsp;digital version of its yuan since 2014&nbsp;and is furthest ahead when it comes to launching CBDCs globally.</p>
+<div class="lazyload-placeholder">&nbsp;</div>
+</div>
+<div class="lazyload-placeholder">&nbsp;</div>
+<div class="group">
+<p>Over the past two years, the People&rsquo;s Bank of China has been carrying out trials in the form of lotteries, where digital yuan is handed out to citizens in certain cities for them to spend. More recently, the central bank has looked to&nbsp;expand the use of the digital yuan. China has not launched its digital currency nationwide yet and has no timeline to do so, however.</p>
+<p>Elsewhere, Japan is looking into its own CBDC, and the U.S. Federal Reserve last month&nbsp;released a study into a digital dollar, but did not take a firm position on whether it would issue one.</p>
+<p>While India is pushing forward with a digital rupee, it has tried to take a tougher stance on cryptocurrencies like bitcoin and is&nbsp;<a href="https://www.cnbc.com/2021/11/25/crypto-india-may-tighten-rules-not-impose-outright-ban-zebpay-says.html">currently working on regulation for the sector</a>.</p>
+<p>On Tuesday, Sitharaman said income from the transfer of virtual digital assets should be taxed at rate of 30%.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div class="jeg_navbar_mobile_wrapper">
+<div class="jeg_navbar_mobile notransition jeg_sticky_nav" data-mode="scroll">
+<div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+<div class="container">
+<div class="jeg_nav_row">
+<div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+<div class="item_wrap jeg_nav_aligncenter">
+<div class="jeg_nav_item jeg_mobile_logo">
+<div class="site-title">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor elementor-75589 elementor-location-single post-69596 post type-post status-publish format-standard has-post-thumbnail hentry category-bitcoin category-bitcoin-news tag-bitcoin" data-elementor-type="single-post" data-elementor-id="75589">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-4d6971d3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4d6971d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71428d0" data-id="71428d0" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-c09f2bc elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="c09f2bc" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+<div class="elementor-widget-container"><img class="attachment-jnews-featured-1140 size-jnews-featured-1140" src="https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-1140x665.png" sizes="(max-width: 1140px) 100vw, 1140px" srcset="https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-1140x665.png 1140w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-300x175.png 300w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-1024x597.png 1024w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-768x448.png 768w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-600x350.png 600w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike-750x438.png 750w, https://www.thecoinrepublic.com/wp-content/uploads/2021/03/bitcoin-transaction-fee-hike.png 1200w" alt="btc bitcoin" width="1140" height="665" loading="lazy" data-pin-no-hover="true" /></div>
+</div>
+<div class="elementor-element elementor-element-1b534c01 elementor-widget elementor-widget-theme-post-content" data-id="1b534c01" data-element_type="widget" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<ul>
+<li>The month of October happens to be the best month as Bitcoin closes high&nbsp;</li>
+<li>Hodlers intend to hold while exchanges face supply shocks&nbsp;</li>
+<li>Cryptocurrencies to price in FEDs taper soon.&nbsp;</li>
+</ul>
+<h2><strong>Christmas in October&nbsp;</strong></h2>
+<p>After a rollercoaster of a ride in October, bitcoin hit its all time high of more than $67,000. It opens up the week and month with extreme volatility at $60,000 levels. The cryptoking did witness a crash after hitting all time highs and eventually navigated itself to a stable path of recovery where it is currently being traded at $61,878 at the time of writing.&nbsp;</p>
+<p>Now crypto optimists look out for the month of november, where they hope for the next biggest rally of BTC. Few of the alleged rational optimists believe the price of Bitcoin will reach $100,000 but there also exists a group of people who believe that the original price of bitcoin is valued at $50,000.&nbsp;</p>
+<p>Regardless of perspectives, most investors are in a party mode since most tokens have performed well in the month. While tokens like Solana, Doge, Shiba Inu witnessed rigorous gains &amp; battles, Ethereum too witnessed high after 5 months in October. The much loved cryptocurrency, Bitcoin too will end the month in the heavens of green, with its highest monthly close in its entire history.&nbsp;&nbsp;&nbsp;</p>
+<div class="jeg_ad jeg_ad_article jnews_content_inline_ads  ">
+<div class="ads-wrapper align-center ">
+<div class="ads_code">
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true">&nbsp;</div>
+<div class="coinzilla" data-zone="C-6675e60e64f8e678350" data-rendered="true"><strong>Hodlers to what they know best!&nbsp;</strong></div>
+</div>
+</div>
+</div>
+<p>Research from a major exchange Kraken, pointed out that despite price gains and Bitcoins reaching $67,000 levels, most long term traders haven&rsquo;t been tempted enough to sell their coins.&nbsp;&nbsp;</p>
+<p>The supply shocks that were bought in last September have only grown in the month of October. It was found in research that people who continued to hodle, were driving up the prices. According to the analyst Willy Woo, since the beginning of the pandemic most miners have become hodlers of the crypto king.&nbsp;&nbsp;</p>
+<p>On the theme of supply shocks, according Glassnode, the exchanges have the lowest BTC tokens reserves in three years pointing to a potential shock that could be perceived as increase in demand. Exchanges currently control 2.47 mn BTC where more than 3.1mn transactions stood on their order books.</p>
+<h2><strong>Markets expect the taper</strong></h2>
+<p>As the fresh statements were received from the US Federal reserve on coronavirus management, the markets expect further hints or maybe even an announcement on tapering of asset purchases.&nbsp; This comes in light as a consequence to the inflationary pressures that have gripped the US &amp; the world for a while. Fed chain Mr.Powell recently admitted that the supply chain narrative in context of inflation is set to priests next year as well.&nbsp;</p>
+<p>It is assumed that such conditions could fare well for the crypto king which is inherently deflationary with its mathematically governing supply limits. However such assumptions are generic and should not play any role in any investment decision.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</body>
+</html>

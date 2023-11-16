@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div id="SpecialReportArticle-KeyPoints-5" class="RenderKeyPoints-keyPoints" data-test="keyPoints-1" data-analytics="SpecialReportArticle-keyPoints-5-1">
+<div class="RenderKeyPoints-wrapper">
+<div class="RenderKeyPoints-header"><strong><span style="color: #236fa1;">KEY POINTS</span></strong></div>
+<div class="RenderKeyPoints-list">
+<div>
+<div class="group">
+<ul>
+<li>Grylls recently launched BecomingX Education, the latest initiative from his global learning and development organization, BecomingX, which he co-founded in 2020.</li>
+<li>Grylls, speaking ahead of the International Day of Education on Jan. 24, said that he wasn&rsquo;t a straight-A student during his school life in England.</li>
+<li>But what Grylls also remembers was the reaction he received from his father.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="SpecialReportArticle-ArticleBody-6" class="ArticleBody-articleBody" data-module="ArticleBody" data-test="articleBody-2" data-analytics="SpecialReportArticle-articleBody-6-2">
+<div id="Placeholder-ArticleBody-Video-107006588" class="PlaceHolder-wrapper" tabindex="0" role="button" data-vilynx-id="7000230244" data-test="VideoPlaceHolder">
+<div id="InlineVideo-0" class="InlineVideo-videoEmbed" data-test="InlineVideo">
+<div class="InlineVideo-wrapper">
+<div class="InlineVideo-inlineBackgroundImageContainer transition-fade-appear-active" role="img">
+<div class="undefined PlayButton-container " data-test="PlayButton">
+<div class="PlayButton-featured PlayButton-base " data-type="play">
+<div class="group">
+<p>Global survival expert and adventurer, Bear Grylls, has told CNBC that role models including his own father taught him that there was more to life than just top grades.</p>
+<p>&ldquo;I feel in many areas, I stand on the shoulders of giants like that in my career and some of the early teachers and later teachers were inspirational for me. I think my late father was a great influence as well,&rdquo; Grylls said.</p>
+<div class="BoxInline-container  ">
+<div id="BoxInline-ArticleBody-6" class="BoxInline-container" data-module="mps-slot"></div>
+</div>
+<p>Grylls, speaking ahead of the International Day of Education on Jan. 24, said that he wasn&rsquo;t a straight-A student during his time at school in England, explaining that he didn&rsquo;t always return home with brilliant school reports.</p>
+<p>But what Grylls also remembers was the reaction he received from his father.</p>
+<p>&ldquo;I was never at the top of anything whether its sports or academics, when I came back those things weren&rsquo;t important to him [my father],&rdquo; he said.</p>
+<p>&ldquo;I remember he used to go, &lsquo;are you happy, are you loving what you do, have you found something you really love, you know, how are your relationships with those, with your good buddies?&rsquo; And those sort of things always mattered more.&rdquo;</p>
+</div>
+<h2 class="ArticleBody-subtitle"><a id="headline0"></a>Personal development gap</h2>
+<div class="group">
+<p>Grylls recently launched&nbsp;<a href="https://urldefense.com/v3/__http:/www.becomingx.com/education__;!!PIZeeW5wscynRQ!9f9cKkhzvle4QRJAnnlg9H6CaXZq3ijx-Oy_CftOHGXuGib37gU3BeC61zj2E6SEWTlw0g$" target="_blank" rel="noopener">BecomingX Education</a>, the latest initiative from his global learning and development organization, BecomingX, which he co-founded in 2020. It&rsquo;s a new digital platform for schools to help them teach personal development and life skills.</p>
+<div class="MidResponsive-midResponsiveContainer">
+<div id="MidResponsive-1" class="" data-module="mps-slot"></div>
+</div>
+<p>Speaking more broadly on education today, he said that governments around the world needed to realize there is a gap for personal development at school, adding that &ldquo;we fail young people&rdquo; if we only focus on academics and natural talent.</p>
+<p>&ldquo;I think first of all government&rsquo;s got to realize that there is a gap, you know. That the personal development side of curriculums is critical, its truly critical, and to understand that most of the programs out there, are you know, underserving and they&rsquo;re essentially quite boring,&rdquo; he said.</p>
+<div class="group">
+<p>.</p>
+</div>
+<div id="ArticleBody-InlineImage-107009469" class="InlineImage-imageEmbed" data-test="InlineImage">
+<div class="InlineImage-wrapper">
+<div class="InlineImage-imagePlaceholder">
+<div class="">
+<div class="InlineImage-imageContainer" tabindex="-1" data-test="InlineImage-pictureContainer"><picture data-test="Picture"><source srcset="https://image.cnbcfm.com/api/v1/image/107009469-1643730487569-gettyimages-1355161236-dsc_2088_2021112375208439.jpeg?v=1643730532&amp;w=740&amp;h=416&amp;ffmt=webp" media="(min-width: 1340px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009469-1643730487569-gettyimages-1355161236-dsc_2088_2021112375208439.jpeg?v=1643730532&amp;w=630&amp;h=354&amp;ffmt=webp" media="(min-width: 1020px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009469-1643730487569-gettyimages-1355161236-dsc_2088_2021112375208439.jpeg?v=1643730532&amp;w=929&amp;h=523&amp;ffmt=webp" media="(min-width: 760px)" /><source srcset="https://image.cnbcfm.com/api/v1/image/107009469-1643730487569-gettyimages-1355161236-dsc_2088_2021112375208439.jpeg?v=1643730532&amp;w=717&amp;h=403&amp;ffmt=webp" media="(min-width: 0px)" /><img class="" src="https://image.cnbcfm.com/api/v1/image/107009469-1643730487569-gettyimages-1355161236-dsc_2088_2021112375208439.jpeg?v=1643730532&amp;w=929&amp;h=523&amp;ffmt=webp" alt="Bear Grylls at The Royal Festival Hall on November 23, 2021 in London, England." /></picture></div>
+</div>
+</div>
+<div>
+<div class="InlineImage-imageEmbedCaption">Bear Grylls at The Royal Festival Hall on November 23, 2021 in London, England.</div>
+<div class="InlineImage-imageEmbedCredit">Dave J Hogan | Getty Images Entertainment | Getty Images</div>
+</div>
+</div>
+</div>
+<div class="group">
+<p>Grylls said governments must also make time in the school curriculum for such new programs.</p>
+<p>&ldquo;We hear it time and time again from schools, when we trial it there the students love it. The school, the teachers love it, because it&rsquo;s helping them do their job really well, and 99% of teachers are incredible like that, they want tools to be able to teach and inspire kids well,&rdquo; he said.</p>
+<p>&ldquo;But if there&rsquo;s not room in an academic program, there&rsquo;s not time in the timetables, you know, kids get underserved. So, I think at the government level, its support us, see the power of BecomingX, but also make room for it and make sure that any schools who can&rsquo;t afford it, can afford it,&rdquo; he added.</p>
+</div>
+<h2 class="ArticleBody-subtitle">Covid crisis</h2>
+<div class="group">
+<p>International businesses who have already funded his initiative for schools include&nbsp;Amazon&nbsp;and Capita.</p>
+<p>The organization has also created the BecomingX Foundation to &ldquo;really empower schools all over the world, even those that can&rsquo;t afford it to be able to get access to this,&rdquo; Grylls said. The programs teach a range of skills including leadership, team working, problem solving, communications, resilience and mental health.</p>
+<p>The TV star and best-selling author of over 90 books said the launch of this program had come at the right time, in the wake of the Covid-19 crisis.</p>
+<p>&ldquo;In a way this pandemic for BecomingX has been incredibly timely. You know, we took three years building this program with all of these inspirational people and to be able to launch BecomingX Education now at this time where young people need these skills, [it] feels really right and it&rsquo;s been amazing seeing the take up and the positive response from young people,&rdquo; he said.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
